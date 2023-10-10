@@ -20,4 +20,5 @@ Recursos)
 
 Recursos)
 
-1)
+1) Abrir aba inicial.
+2)
